@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Distributed-KV-Store-ProtoType.props" />
+</Project>

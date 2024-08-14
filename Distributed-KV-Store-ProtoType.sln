@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distributed-KV-Store-ProtoType", "Distributed-KV-Store\Distributed-KV-Store-ProtoType.csproj", "{25FE02FD-4971-4908-AE69-058F701523B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25FE02FD-4971-4908-AE69-058F701523B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25FE02FD-4971-4908-AE69-058F701523B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25FE02FD-4971-4908-AE69-058F701523B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25FE02FD-4971-4908-AE69-058F701523B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FA70AB0-EE34-4F25-8732-5366C37D7D58}
+	EndGlobalSection
+EndGlobal
