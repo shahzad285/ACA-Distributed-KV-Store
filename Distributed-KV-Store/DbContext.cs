@@ -7,10 +7,11 @@ namespace Distributed_KV_Store
     {
         private readonly string _connectionString;
         private SqlConnection _connection;
+        private SqlTransaction _transaction;
 
-        public DbContext(string connectionString)
+        public DbContext(IConfiguration configuration)
         {
-            _connectionString = connectionString;
+            _connectionString = configuration.GetConnectionString("DefaultConnection");
             _connection = new SqlConnection(_connectionString);
         }
 
@@ -56,10 +57,43 @@ namespace Distributed_KV_Store
             }
         }
 
+        public void BeginTransaction()
+        {
+            if (_connection.State == ConnectionState.Open && _transaction == null)
+            {
+                _transaction = _connection.BeginTransaction();
+            }
+        }
+
+        public void CommitTransaction()
+        {
+            if (_transaction != null)
+            {
+                _transaction.Commit();
+                _transaction.Dispose();
+                _transaction = null;
+            }
+        }
+
+        public void RollbackTransaction()
+        {
+            if (_transaction != null)
+            {
+                _transaction.Rollback();
+                _transaction.Dispose();
+                _transaction = null;
+            }
+        }
+
         public void Dispose()
         {
+            if (_transaction != null)
+            {
+                RollbackTransaction();
+            }
             CloseConnection();
             _connection.Dispose();
         }
+
     }
 }

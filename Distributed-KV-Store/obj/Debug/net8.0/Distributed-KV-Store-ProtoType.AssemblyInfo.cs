@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Distributed-KV-Store-ProtoType")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b7aa7d77efcc319e32cdd0df344f1578687524a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Distributed-KV-Store-ProtoType")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Distributed-KV-Store-ProtoType")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

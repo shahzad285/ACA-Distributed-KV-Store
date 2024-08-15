@@ -1,3 +1,5 @@
+using Distributed_KV_Store;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +8,11 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// Register DatabaseContext
+builder.Services.AddScoped<DbContext>();
+
+
 
 var app = builder.Build();
 

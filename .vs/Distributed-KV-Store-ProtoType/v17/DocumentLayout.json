@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|c:\\projects\\personal\\systemdesigncohort\\aca-distributed-kv-store\\distributed-kv-store\\controllers\\kvstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|solutionrelative:distributed-kv-store\\controllers\\kvstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|c:\\projects\\personal\\systemdesigncohort\\aca-distributed-kv-store\\distributed-kv-store\\scripts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|solutionrelative:distributed-kv-store\\scripts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|c:\\projects\\personal\\systemdesigncohort\\aca-distributed-kv-store\\distributed-kv-store\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|solutionrelative:distributed-kv-store\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|c:\\projects\\personal\\systemdesigncohort\\aca-distributed-kv-store\\distributed-kv-store\\dtos\\deletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|solutionrelative:distributed-kv-store\\dtos\\deletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|c:\\projects\\personal\\systemdesigncohort\\aca-distributed-kv-store\\distributed-kv-store\\dtos\\kvaddupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|solutionrelative:distributed-kv-store\\dtos\\kvaddupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|c:\\projects\\personal\\systemdesigncohort\\aca-distributed-kv-store\\distributed-kv-store\\dtos\\kv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|solutionrelative:distributed-kv-store\\dtos\\kv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|c:\\projects\\personal\\systemdesigncohort\\aca-distributed-kv-store\\distributed-kv-store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|solutionrelative:distributed-kv-store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|c:\\projects\\personal\\systemdesigncohort\\aca-distributed-kv-store\\distributed-kv-store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|solutionrelative:distributed-kv-store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|c:\\projects\\personal\\systemdesigncohort\\aca-distributed-kv-store\\distributed-kv-store\\scripts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{25FE02FD-4971-4908-AE69-058F701523B6}|Distributed-KV-Store\\Distributed-KV-Store-ProtoType.csproj|solutionrelative:distributed-kv-store\\scripts.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\Distributed-KV-Store\\DTOs\\DeleteDto.cs",
+              "RelativeDocumentMoniker": "Distributed-KV-Store\\DTOs\\DeleteDto.cs",
+              "ToolTip": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\Distributed-KV-Store\\DTOs\\DeleteDto.cs",
+              "RelativeToolTip": "Distributed-KV-Store\\DTOs\\DeleteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:58:10.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KVAddUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\Distributed-KV-Store\\DTOs\\KVAddUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Distributed-KV-Store\\DTOs\\KVAddUpdateDTO.cs",
+              "ToolTip": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\Distributed-KV-Store\\DTOs\\KVAddUpdateDTO.cs",
+              "RelativeToolTip": "Distributed-KV-Store\\DTOs\\KVAddUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T10:48:08.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scripts.sql ",
+              "DocumentMoniker": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\Distributed-KV-Store\\Scripts.sql",
+              "RelativeDocumentMoniker": "Distributed-KV-Store\\Scripts.sql",
+              "ToolTip": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\Distributed-KV-Store\\Scripts.sql",
+              "RelativeToolTip": "Distributed-KV-Store\\Scripts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-15T10:32:02.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KV.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\Distributed-KV-Store\\DTOs\\KV.cs",
+              "RelativeDocumentMoniker": "Distributed-KV-Store\\DTOs\\KV.cs",
+              "ToolTip": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\Distributed-KV-Store\\DTOs\\KV.cs",
+              "RelativeToolTip": "Distributed-KV-Store\\DTOs\\KV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T10:29:09.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\Distributed-KV-Store\\DbContext.cs",
+              "RelativeDocumentMoniker": "Distributed-KV-Store\\DbContext.cs",
+              "ToolTip": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\Distributed-KV-Store\\DbContext.cs",
+              "RelativeToolTip": "Distributed-KV-Store\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:39:17.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KVStoreController.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\Distributed-KV-Store\\Controllers\\KVStoreController.cs",
+              "RelativeDocumentMoniker": "Distributed-KV-Store\\Controllers\\KVStoreController.cs",
+              "ToolTip": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\Distributed-KV-Store\\Controllers\\KVStoreController.cs*",
+              "RelativeToolTip": "Distributed-KV-Store\\Controllers\\KVStoreController.cs*",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwCwAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:50:51.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\Distributed-KV-Store\\Program.cs",
+              "RelativeDocumentMoniker": "Distributed-KV-Store\\Program.cs",
+              "ToolTip": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\Distributed-KV-Store\\Program.cs",
+              "RelativeToolTip": "Distributed-KV-Store\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T06:13:49.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\Distributed-KV-Store\\appsettings.json",
+              "RelativeDocumentMoniker": "Distributed-KV-Store\\appsettings.json",
+              "ToolTip": "C:\\Projects\\Personal\\SystemDesignCohort\\ACA-Distributed-KV-Store\\Distributed-KV-Store\\appsettings.json",
+              "RelativeToolTip": "Distributed-KV-Store\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T05:50:33.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
